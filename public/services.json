@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "event_name": "Tech Conference 2024",
+        "details": "Annual conference focusing on the latest trends in technology and innovation.",
+        "date": "2024-08-15",
+        "location": "San Francisco, CA",
+        "icon": "<MdMilitaryTech />"
+    },
+    {
+        "id": 2,
+        "event_name": "Health & Wellness Expo",
+        "details": "Expo showcasing products and services for health, wellness, and fitness.",
+        "date": "2024-09-10",
+        "location": "New York, NY",
+        "icon": ""
+    },
+    {
+        "id": 3,
+        "event_name": "Music Festival",
+        "details": "Three-day festival featuring performances by top artists from various genres.",
+        "date": "2024-07-20",
+        "location": "Austin, TX",
+        "icon": "https://example.com/icons/music-festival.png"
+    },
+    {
+        "id": 4,
+        "event_name": "Art & Culture Fair",
+        "details": "Event celebrating diverse forms of art and culture from around the world.",
+        "date": "2024-10-05",
+        "location": "Los Angeles, CA",
+        "icon": "https://example.com/icons/art-culture-fair.png"
+    },
+    {
+        "id": 5,
+        "event_name": "Startup Pitch Day",
+        "details": "Opportunity for startups to pitch their ideas to potential investors.",
+        "date": "2024-06-30",
+        "location": "Boston, MA",
+        "icon": "https://example.com/icons/startup-pitch-day.png"
+    },
+    {
+        "id": 6,
+        "event_name": "Food & Wine Festival",
+        "details": "Festival featuring gourmet food and wine tastings from top chefs and wineries.",
+        "date": "2024-11-12",
+        "location": "Napa Valley, CA",
+        "icon": "https://example.com/icons/food-wine-festival.png"
+    },
+    {
+        "id": 7,
+        "event_name": "Sports Gala",
+        "details": "Gala honoring outstanding achievements in the world of sports.",
+        "date": "2024-12-01",
+        "location": "Chicago, IL",
+        "icon": "https://example.com/icons/sports-gala.png"
+    },
+    {
+        "id": 8,
+        "event_name": "Educational Workshop",
+        "details": "Workshop providing hands-on learning experiences on various educational topics.",
+        "date": "2024-07-15",
+        "location": "Seattle, WA",
+        "icon": "https://example.com/icons/educational-workshop.png"
+    },
+    {
+        "id": 9,
+        "event_name": "Business Summit",
+        "details": "Summit bringing together business leaders to discuss industry trends and strategies.",
+        "date": "2024-08-25",
+        "location": "New York, NY",
+        "icon": "https://example.com/icons/business-summit.png"
+    }
+    
+]
